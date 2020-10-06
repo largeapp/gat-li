@@ -10,5 +10,4 @@ See the following publications for examples of this code in use:
 [gat-fc.py](gat-fc.py) is the code of GAT-fc model.  
 [hack_model.py](hack_model.py) is the code for hacking model.  
 
-### Some results
-[ho-top-conn.csv](ho-top-conn.csv) is the list of top 1950 features.  
+

@@ -5,7 +5,7 @@ See the following publications for examples of this code in use:
  * preparing to submit. 
  
 ### Code
-[gat-nr_exp.py](gat-nr_exp.py) is the code of GAT-NR model.  
+[gat-nr_exp.py](gat-nr_exp.py) is the code of GAT2 model.  
 [gat-average.py](gat-average.py) is the code of GAT-average model.  
 [gat-fc.py](gat-fc.py) is the code of GAT-fc model.  
 [hack_model.py](hack_model.py) is the code for hacking model.  

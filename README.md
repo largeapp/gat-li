@@ -9,5 +9,4 @@ See the following publications for examples of this code in use:
 [gat-average.py](gat-average.py) is the code of GAT-average model.  
 [gat-fc.py](gat-fc.py) is the code of GAT-fc model.  
 [hack_model.py](hack_model.py) is the code for hacking model.  
-
-
+[ABIDEParser-ref.py](ABIDEParser-ref.py) is the reference code for using abide data to establish connectivity matrices. 

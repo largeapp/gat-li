@@ -1,11 +1,11 @@
 # Graph neural networks Approaches in Resting-state Functional Connectivity Analysis
 GAT-LI is a repository of codes and experiment results for Research on graph neural networks Approaches in Resting-state Functional Connectivity Analysis, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend.
 
-Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+Our research collection on artificial intelligence for brain image analysis is available on [this link](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
 
 ### Publications
 See the following publications for examples of this code in use:
- * Jinlong Hu, Lijie Cao, Tenghui Li, Shoubin Dong & Ping Li, GAT-LI: a graph attention network based learning and interpreting method for functional brain network classification. BMC Bioinformatics, Volume 22, 379 (2021). [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04295-1)
+ * Jinlong Hu, Lijie Cao, Tenghui Li, Shoubin Dong & Ping Li, GAT-LI: a graph attention network based learning and interpreting method for functional brain network classification. BMC Bioinformatics, Volume 22, 379 (2021). [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04295-1)
  
 ### Code
 [gat-nr_exp.py](gat-nr_exp.py) is the code of GAT2 model.  

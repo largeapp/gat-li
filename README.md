@@ -1,5 +1,6 @@
 # Graph neural networks Approaches in Resting-state Functional Connectivity Analysis
 GAT-LI is a repository of codes and experiment results for Research on graph neural networks Approaches in Resting-state Functional Connectivity Analysis, using Keras (version 2.2.4) with TensorFlow (version 1.12.0) as backend.
+
 Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
 
 ### Publications
